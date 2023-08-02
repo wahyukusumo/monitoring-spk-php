@@ -1,0 +1,11 @@
+SELECT pengada.no_spk, pengada.vendor_spk, pengada.awal_spk, pengada.akhir_spk, pengada.uraian_spk, pengada.nilai_spk, pengada.basket, pengada.bagian, pengawas.progress FROM pengada INNER JOIN pengawas ON pengada.id=pengawas.id
+
+SELECT pengada.no_spk, pengada.akhir_spk, pengada.nilai_spk, amandemen.no_spk, amandemen.tgl_amd 
+FROM amandemen
+INNER JOIN pengada ON amandemen.no_spk=pengada.no_spk;
+
+select column1, column2,....
+from tabke_name
+Where columnn Like pattern;
+
+SELECT 
