@@ -1,7 +1,7 @@
 ## Introduction
-This is prototype web app that I made for my internship at PT. PLN Persero in 2018. This app is for monitoring Work Order or SPK (Surat Perintah Kerja).
+This is a prototype web app that I developed during my internship at PT. PLN Persero in 2018. The app is designed for monitoring Work Orders or SPK (Surat Perintah Kerja). 
 
-🆕 [I remake this app using Django REST Framework & Vue JS.](https://github.com/wahyukusumo/monitoring-spk-django)
+🆕 [I have since remade this app using Django REST Framework & Vue JS.](https://github.com/wahyukusumo/monitoring-spk-django)
 
 
 ## Screenshots
