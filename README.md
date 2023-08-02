@@ -1,3 +1,6 @@
+## Introduction
+This is prototype web app that I made for my internship at PT. PLN Persero in 2018. This app is for monitoring Work Order or SPK (Surat Perintah Kerja).
+
 ## Screenshots
 ![Dashboard Layout](/docs/dashboard.webp)
 
